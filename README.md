@@ -1,0 +1,2 @@
+# qrGenerator
+bulk generation :)
